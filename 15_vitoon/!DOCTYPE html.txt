@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>เว็บไซต์ครูตี๋</title>
+</head>
+<body>
+    <h1><b>ประวัติส่วนตัว</b></h1>
+       
+<hr>
+    <br><br><b>ชื่อ-นามสกุล : วิทูร ริ้วงาม : ตี๋</b>
+    <br><br><i>วัน/เดือน/ปีเกิด  26/10/2551</i>
+<br><br><u>อายุ 17</u>
+<br><br>วิชาที่ชอบ คอม
+<br><br><font color=MAGENTA>อาหารที่ชอบ ก๋วยเตี๋ยว</font>
+<br><br><font color=RED>งานอดิเรก กินก๋วยเตี๋ยว</font>
+<br><br><font color=BLUE>อาชีพที่ใฝ่ฝัน ยาม</font>
+
+   
+</body>
+</html>
